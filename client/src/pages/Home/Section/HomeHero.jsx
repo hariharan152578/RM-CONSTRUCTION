@@ -73,7 +73,7 @@ const HomeHero = () => {
           <div className="overflow-hidden">
             <h1 ref={titleRef} className="text-4xl md:text-6xl font-light text-white tracking-tight leading-[1.1]">
               Building Lasting <br />
-              <span className="font-serif italic text-4xl text-yellow-500">Infrastructure</span>
+              <span className="font-serif italic text-4xl md:text-7xl text-yellow-500">Infrastructure</span>
             </h1>
           </div>
           

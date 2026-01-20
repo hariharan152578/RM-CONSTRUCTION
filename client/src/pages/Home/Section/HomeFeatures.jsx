@@ -253,7 +253,7 @@ const HomeFeatures = () => {
                   Why Choose Us
                 </span>
               </div>
-              <h2 className="text-5xl md:text-7xl font-bold text-zinc-950 leading-[1.1] mb-10">
+              <h2 className="text-4xl md:text-7xl font-bold text-zinc-950 leading-[1.1] mb-10">
                 The Standard <br />
                 of <span className="text-zinc-300 italic font-light">excellence </span>
                 in engineering.
