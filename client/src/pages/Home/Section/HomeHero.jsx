@@ -71,9 +71,9 @@ const HomeHero = () => {
         {/* Main Content */}
         <div className="max-w-3xl">
           <div className="overflow-hidden">
-            <h1 ref={titleRef} className="text-5xl md:text-7xl font-light text-white tracking-tight leading-[1.1]">
+            <h1 ref={titleRef} className="text-4xl md:text-6xl font-light text-white tracking-tight leading-[1.1]">
               Building Lasting <br />
-              <span className="font-serif italic text-yellow-500">Infrastructure</span>
+              <span className="font-serif italic text-4xl text-yellow-500">Infrastructure</span>
             </h1>
           </div>
           
