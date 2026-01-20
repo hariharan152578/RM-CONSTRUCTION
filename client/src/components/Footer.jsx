@@ -204,6 +204,7 @@ const HomeFooter = () => {
           <div className="lg:col-span-2 footer-link-col">
             <h4 className="text-yellow-500 text-[10px] uppercase tracking-[0.3em] font-bold mb-8">Navigation</h4>
             <ul className="space-y-4 text-sm text-zinc-400 font-light">
+              <li><Link to="/home" className="hover:text-yellow-500 transition-colors">Constuction</Link></li>
               <li><Link to="/about" className="hover:text-yellow-500 transition-colors">About Us</Link></li>
               <li><Link to="/projects" className="hover:text-yellow-500 transition-colors">Projects</Link></li>
               <li><Link to="/services" className="hover:text-yellow-500 transition-colors">Services</Link></li>
