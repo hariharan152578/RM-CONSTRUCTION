@@ -7,7 +7,7 @@ export const App = () => {
 
   return (
     <main className="relative w-full min-h-screen bg-black">
-          <Router>
+        <Router>
           <MainLayout />
         </Router>
  
