@@ -10,19 +10,19 @@ const ventures = [
     title: "RM Traders",
     category: "Material Supply",
     desc: "Supplying high-grade construction materials and industrial resources to power large-scale infrastructure.",
-    image: "https://images.unsplash.com/photo-1581094288338-2314dddb7ec4?q=80&w=1200",
+    image: "https://i.pinimg.com/1200x/02/b0/43/02b043af51095195be4e910dad3cf54b.jpg",
   },
   {
     title: "RM Real Estate",
     category: "Property Development",
     desc: "Developing premium residential and commercial spaces built on the foundation of engineering excellence.",
-    image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1200",
+    image: "https://i.pinimg.com/736x/47/91/75/4791751fe267f14bd7b7d67c10d86c72.jpg",
   },
   {
     title: "RM Thanga Maaligai",
     category: "Retail & Luxury",
     desc: "A legacy of trust extended into the fine jewelry retail sector, known for purity and craftsmanship.",
-    image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=1200",
+    image: "https://i.pinimg.com/736x/13/29/0c/13290c7853faba343263867975698eb8.jpg",
   }
 ];
 

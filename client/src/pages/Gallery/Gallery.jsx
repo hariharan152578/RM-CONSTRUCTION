@@ -233,42 +233,42 @@ const galleryItems = [
     id: 1,
     title: "Main Span Execution",
     category: "Bridge Work",
-    image: "https://images.unsplash.com/photo-1545139239-0837f6a394a4?q=80&w=1200",
+    image: "https://i.pinimg.com/1200x/86/dc/5c/86dc5cf670a4e5109e3790c883ad4b8b.jpg",
     size: "large"
   },
   {
     id: 2,
     title: "Highway Paving",
     category: "Road Work",
-    image: "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?q=80&w=1200",
+    image: "https://i.pinimg.com/736x/e8/e7/6b/e8e76b898ebe7ae5f3611e0d6e47798f.jpg",
     size: "small"
   },
   {
     id: 3,
     title: "Site Discipline",
     category: "Operations",
-    image: "https://images.unsplash.com/photo-1541888946425-d81bb19480c5?q=80&w=1200",
+    image: "https://i.pinimg.com/736x/13/47/80/1347807cbd2d3613e23e06a066eeb916.jpg",
     size: "small"
   },
   {
     id: 4,
     title: "Structural Reinforcement",
     category: "Ongoing",
-    image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=1200",
+    image: "https://i.pinimg.com/736x/8a/b4/fd/8ab4fd101cc5fd3243d0665714c768e3.jpg",
     size: "medium"
   },
   {
     id: 5,
     title: "Culvert Systems",
     category: "Drainage",
-    image: "https://images.unsplash.com/photo-1581094288338-2314dddb7ec4?q=80&w=1200",
+    image: "https://i.pinimg.com/1200x/b7/34/f9/b734f90d3b8b54e8e17ee081239fef0f.jpg",
     size: "medium"
   },
   {
     id: 6,
     title: "Legacy Project 1970",
     category: "Archive",
-    image: "https://images.unsplash.com/photo-1590644365607-1c5a519a7a37?q=80&w=1200",
+    image: "https://i.pinimg.com/736x/f2/84/66/f2846637e4f89a3057374cc758a0a0a2.jpg",
     size: "small"
   }
 ];

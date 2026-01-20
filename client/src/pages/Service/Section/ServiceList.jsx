@@ -10,25 +10,25 @@ const services = [
     title: "General Contracting",
     category: "Management",
     details: "Project execution from ground-breaking to handover.",
-    img: "https://images.unsplash.com/photo-1503387762-592dea58ef21?q=80&w=1000"
+    img: "https://i.pinimg.com/736x/82/22/8f/82228f186a4e3d590f9bbeb69b2a54ed.jpg"
   },
   {
     title: "Road & Highways",
     category: "Infrastructure",
     details: "High-durability paving and national highway development.",
-    img: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1000"
+    img: "https://i.pinimg.com/1200x/8f/48/e2/8f48e254f4de25a3faf46195a1845018.jpg"
   },
   {
     title: "Bridge Construction",
     category: "Engineering",
     details: "Structural engineering for complex river and overpass spans.",
-    img: "https://images.unsplash.com/photo-1513828583688-c52646db42da?q=80&w=1000"
+    img: "https://i.pinimg.com/736x/da/af/09/daaf097d3236521ea2b4564830e09dbd.jpg"
   },
   {
     title: "Drainage Systems",
     category: "Utility",
     details: "Culvert systems and storm-water management solutions.",
-    img: "https://images.unsplash.com/photo-1541888946425-d81bb19480c5?q=80&w=1000"
+    img: "https://i.pinimg.com/1200x/3b/90/23/3b90234f715a7c7e4a29e702261c5c9f.jpg"
   }
 ];
 

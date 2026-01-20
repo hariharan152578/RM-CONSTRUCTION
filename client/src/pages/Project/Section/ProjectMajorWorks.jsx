@@ -14,91 +14,91 @@ const ProjectMajorWorks = () => {
         location: "State Highways", 
         type: "Infrastructure",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/736x/97/b5/48/97b548b6448de3ac51782a14585021b5.jpg"
     },
     { 
         title: "Ponnai High Level Bridge", 
         location: "River Bridge", 
         type: "Structural",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/736x/a6/e9/eb/a6e9eb7f0793e0e88cddb4f48fd1f82c.jpg"
     },
     { 
         title: "Ambur ROB", 
         location: "Road Over Bridge", 
         type: "Engineering",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/1200x/c1/30/1b/c1301bf63d377aa38dc81f9de3340b0e.jpg"
         },
     { 
         title: "Sabalpatti RUB", 
         location: "Dharmapuri", 
         type: "Road Under Bridge",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/1200x/24/1c/97/241c971c8da0c6203187553f3425ea5c.jpg"
     },
     { 
         title: "Vadailuppai HLB", 
         location: "Kancheepuram", 
         type: "Bridge Work",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/1200x/61/d7/4f/61d74fa4e6d8e32c501ee69a2c100814.jpg"
     },
     { 
         title: "Anvarthikanpettai ROB", 
         location: "Road Over Bridge", 
         type: "Railway Crossing",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/1200x/28/ae/83/28ae8342869cd0e1745b475b9d310d35.jpg"
     },
     { 
         title: "Vaniyambadi ROB", 
         location: "Road Over Bridge", 
         type: "Infrastructure",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/1200x/65/1e/39/651e392449b4193885f7d0b65a59175e.jpg"
     },
     { 
         title: "Mettur Palar Road", 
         location: "Widening Work", 
         type: "Highway",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/1200x/f2/34/7a/f2347adcb32461e21f3fdfde58094ab7.jpg"
     },
     { 
         title: "Edapadi WRD", 
         location: "Retaining Wall", 
         type: "Water Resources",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/1200x/4f/a2/52/4fa25217961d7cd7714cb583aecee586.jpg"
     },
     { 
         title: "Mettur Thermal Junction", 
         location: "Improvement Work", 
         type: "Traffic Engineering",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/736x/d0/65/f9/d065f9591d50b3f8f51d6e8937dc6f85.jpg"
     },
     { 
         title: "Pennagaram to Anchetty", 
         location: "Forest Road Formation", 
         type: "Connectivity",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/736x/ea/bf/27/eabf274ad828751112c18e55668cd9fd.jpg"
     },
     { 
         title: "Thandarampattu Bridge", 
         location: "River Bridge", 
         type: "Structural",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/736x/45/46/e3/4546e37c66f64f2ac7cc0a8765ea5478.jpg"
     },
     { 
         title: "KRP Dam Cluster", 
         location: "Krishnagiri (7 Bridges)", 
         type: "Thenpannai River",
         mapUrl: "https://www.google.com/maps",
-        img: "https://i.pinimg.com/1200x/d7/52/11/d7521140d74f4ec572a015fee9bc24ba.jpg"
+        img: "https://i.pinimg.com/736x/9a/0f/9c/9a0f9cf5e61f0d4b57966ae4ce59ef5d.jpg"
     },
   ];
 

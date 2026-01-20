@@ -24,17 +24,17 @@ const ProjectCategories = () => {
     { 
       title: "Culverts", 
       desc: "Precise installation of major and minor culvert systems.",
-      img: "https://images.unsplash.com/photo-1590487988256-9ed24133863e?q=80&w=1000&auto=format&fit=crop"
+      img: "https://i.pinimg.com/736x/dc/2b/7f/dc2b7f10b7df8b333f8d6f6dfa5c8482.jpg"
     },
     { 
       title: "Cross-Drainage", 
       desc: "Specialized box culverts and drainage structures.",
-      img: "https://i.pinimg.com/1200x/1e/6c/2d/1e6c2df692faddf288919b18d4330ff5.jpg"
+      img: "https://i.pinimg.com/736x/44/01/09/44010994d6f96888a386744826d6a610.jpg"
     },
     { 
       title: "Storm Water", 
       desc: "Advanced urban and industrial drainage systems.",
-      img: "https://i.pinimg.com/1200x/fb/8b/46/fb8b46f8ea9f3153604b58e811c05cf9.jpg"
+      img: "https://i.pinimg.com/1200x/62/47/a8/6247a8e9c06a96eccdf942ba6b3c1b8a.jpg"
     },
     { 
       title: "Rehabilitation", 
