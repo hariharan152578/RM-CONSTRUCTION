@@ -39,7 +39,7 @@ const HomeHero = () => {
     { 
       title: "Legacy", 
       desc: "Built from the ground up over 56+ years.",
-      icon: "56+"
+      icon: "02"
     },
     { 
       title: "Reputation", 
