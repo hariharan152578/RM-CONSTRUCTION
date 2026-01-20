@@ -20,7 +20,7 @@ const Navbar = () => {
     { name: 'Projects', href: '/projects' },
     { name: 'Services', href: '/services' },
     { name: 'Gallery', href: '/gallery' },
-    { name: 'Contacts', href: '/contact' },
+    { name: 'Contact', href: '/contact' },
   ];
 
   return (
@@ -42,7 +42,7 @@ const Navbar = () => {
             </div>
             <div className="flex flex-col">
                 <h1 className="text-xl font-black text-white tracking-tighter uppercase italic leading-none">
-                  RM<span className="text-yellow-500">SITE</span>
+                  RM <span className="text-yellow-500">& COMPANY</span>
                 </h1>
                 <span className="text-[7px] text-zinc-500 uppercase tracking-[0.3em] mt-1 font-bold">Premium Build</span>
             </div>

@@ -136,7 +136,7 @@ export default function IllustratedCraneLoader({ setFinished }) {
                     {/* ATTRACTIVE BRAND TEXT */}
                     <div className="relative z-10 flex flex-col items-center">
                         <span className="text-yellow-500 font-black text-xs tracking-[0.2em] drop-shadow-[0_0_8px_rgba(234,179,8,0.6)]">
-                            RM SITE
+                            RM
                         </span>
                         <div className="w-12 h-[1px] bg-yellow-500/50 mt-1" />
                         <span className="text-[7px] text-zinc-400 font-mono mt-1 tracking-widest uppercase">
@@ -166,7 +166,7 @@ export default function IllustratedCraneLoader({ setFinished }) {
       <div className="mt-16 text-center space-y-6">
         <div className="flex flex-col items-center">
             <h1 className="text-white font-black text-5xl tracking-tighter uppercase italic">
-              RM<span className="text-yellow-500 drop-shadow-[0_0_15px_rgba(234,179,8,0.3)]">SITE</span>
+              RM<span className="text-yellow-500 drop-shadow-[0_0_15px_rgba(234,179,8,0.3)]">& COMPANY</span>
             </h1>
             <div className="w-56 h-1.5 bg-zinc-900 mt-4 relative overflow-hidden rounded-full border border-zinc-800">
                 <div className="absolute inset-y-0 left-0 bg-gradient-to-r from-yellow-600 to-yellow-400 w-1/3 animate-[loading_1.5s_infinite_ease-in-out]" />

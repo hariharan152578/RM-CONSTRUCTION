@@ -5,6 +5,10 @@ import { Home } from '../pages/Home/Home';
 import IllustratedCraneLoader from '../components/Loader';
 import HomeFooter from '../components/Footer';
 import { About } from '../pages/About/About';
+import { Project } from '../pages/Project/Project';
+import Service from '../pages/Service/Service';
+import Gallery from '../pages/Gallery/Gallery';
+import Contact from '../pages/Contact/Contact';
 
 const PageWrapper = ({ title }) => (
   <div className="min-h-screen pt-32 flex flex-col items-center justify-center bg-[#F9F7F2] text-stone-900">
@@ -58,10 +62,10 @@ const MainLayout = () => {
           <Routes location={location}>
             <Route path="/" element={<Home />} />
             <Route path="/About" element={<About />} />
-            <Route path="/projects" element={<PageWrapper title="Our Projects" />} />
-            <Route path="/services" element={<PageWrapper title="Our Services" />} />
-            <Route path="/gallery" element={<PageWrapper title="Gallery" />} />
-            <Route path="/contact" element={<PageWrapper title="Contact Us" />} />
+            <Route path="/projects" element={<Project/>} />
+            <Route path="/services" element={<Service/>} />
+            <Route path="/gallery" element={<Gallery/>} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
           <HomeFooter/>
         </main>

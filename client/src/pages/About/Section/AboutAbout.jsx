@@ -111,7 +111,7 @@ const AboutAbout = ({ isFinished }) => {
             </h3>
 
             <p className="text-reveal text-3xl md:text-4xl font-bold text-zinc-900 leading-tight">
-              RM and Company was founded by Mr. R. Mathaiyan, a journey fueled by{" "}
+              RM and Company was founded by<br/> Mr. R. Mathaiyan, a journey fueled by{" "}
               <span className="italic">determination, craftsmanship, and resilience.</span>
             </p>
 

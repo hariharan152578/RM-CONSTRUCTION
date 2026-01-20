@@ -254,7 +254,7 @@ const HomeFeatures = () => {
                 </span>
               </div>
               <h2 className="text-5xl md:text-7xl font-bold text-zinc-950 leading-[1.1] mb-10">
-                The standard <br />
+                The Standard <br />
                 of <span className="text-zinc-300 italic font-light">excellence </span>
                 in engineering.
               </h2>
