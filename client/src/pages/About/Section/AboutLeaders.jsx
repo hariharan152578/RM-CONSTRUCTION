@@ -108,7 +108,7 @@ const AboutLeaders = () => {
                   {leader.role}
                 </p>
                 
-                <h4 className="text-3xl font-black text-white leading-tight mb-1">
+                <h4 className="text-3xl font-black text-white text-left leading-tight mb-1">
                   {leader.name}
                 </h4>
                 

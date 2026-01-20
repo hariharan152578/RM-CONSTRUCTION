@@ -361,7 +361,7 @@ const GalleryDark = ({ isFinished }) => {
           <h2 className="text-6xl md:text-8xl lg:text-9xl font-black tracking-tighter uppercase leading-[0.8] mb-10">
             The <br /> <span className="text-zinc-800">Gallery</span>
           </h2>
-          <p className="text-zinc-500 text-lg md:text-xl leading-relaxed max-w-2xl border-l border-zinc-800 pl-8">
+          <p className="text-zinc-500 text-lg md:text-xl leading-relaxed max-w-2xl border-l text-justify border-zinc-800 pl-8">
             A visual record of our journey showcasing completed works, ongoing construction, 
             and site operations that reflect our commitment to precision.
           </p>

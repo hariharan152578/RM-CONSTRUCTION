@@ -110,7 +110,7 @@ const AboutAbout = ({ isFinished }) => {
               The Foundation
             </h3>
 
-            <p className="text-reveal text-3xl md:text-4xl font-bold text-zinc-900 leading-tight">
+            <p className="text-reveal text-3xl md:text-4xl font-bold text-zinc-900 leading-tight ">
               RM and Company was founded by<br/> Mr. R. Mathaiyan, a journey fueled by{" "}
               <span className="italic">determination, craftsmanship, and resilience.</span>
             </p>
@@ -161,7 +161,7 @@ const AboutAbout = ({ isFinished }) => {
               </span>{" "}
               and{" "}
               <span className="text-zinc-900 font-bold">
-                Mr. R. M. Saravanakumar
+              Mr.R.M. Saravanakumar
               </span>{" "}
               joining the leadership, we have expanded our technical horizon, 
               executing larger road, bridge, and infrastructure projects with modern 

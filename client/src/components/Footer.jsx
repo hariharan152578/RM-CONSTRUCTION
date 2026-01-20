@@ -191,7 +191,7 @@ const HomeFooter = () => {
                 RM  <span className="text-yellow-500 italic font-light group-hover:pl-2 transition-all duration-300">&</span> COMPANY
               </h2>
             </div>
-            <p className="text-zinc-400 font-light leading-relaxed max-w-sm mb-8">
+            <p className="text-zinc-400 font-light leading-relaxed max-w-sm mb-8 text-justify">
               A Class I PWD & Highways Engineering firm dedicated to building the future of Tamil Nadu through disciplined execution and technical mastery.
             </p>
             <div className="inline-flex items-center gap-3 px-4 py-2 border border-white/10 rounded-full">
@@ -227,8 +227,10 @@ const HomeFooter = () => {
             <div className="space-y-6">
               <div>
                 <p className="text-[10px] text-zinc-500 uppercase mb-1">Office Address</p>
-                <p className="text-sm font-light text-zinc-300">
-                  Headquarters, Tamil Nadu, India
+                <p className="text-sm font-light text-zinc-300 text-justify">
+                  RM and Company – Engineering Contractors
+                  H 94, C Block, TNHB, Green Park Avenue, Salem -7, Tamil Nadu, India
+
                 </p>
               </div>
               <div>
@@ -237,7 +239,7 @@ const HomeFooter = () => {
                   href="mailto:contact@rmandcompany.com" 
                   className="text-sm font-light text-zinc-300 hover:text-yellow-500 transition-colors block"
                 >
-                  contact@rmandcompany.com
+                 rmcompany1948@gmail.com
                 </a>
               </div>
               <button 

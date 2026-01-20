@@ -160,7 +160,7 @@ const ProjectMajorWorks = () => {
           <h2 className="text-sm font-black text-amber-500 uppercase tracking-[0.6em] mb-4">
             Our Portfolio
           </h2>
-          <h3 className="text-6xl md:text-9xl font-black text-white leading-none tracking-tighter uppercase">
+          <h3 className="text-5xl md:text-8xl font-black text-white leading-none tracking-tighter uppercase">
             Major <br /> Landmarks
           </h3>
         </div>
