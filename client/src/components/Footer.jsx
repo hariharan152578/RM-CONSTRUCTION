@@ -260,6 +260,26 @@ const HomeFooter = () => {
           <p className="text-zinc-600 text-[10px] uppercase tracking-widest">
             © 2026 RM and Company. All rights reserved.
           </p>
+          {/* Developer Credit */}
+    <div className="text-[11px] uppercase tracking-[0.2em] flex items-center gap-2">
+      <span>Developed by</span>
+      <a 
+        href="https://archealix.com" // Replace with actual URL
+        target="_blank" 
+        rel="noopener noreferrer"
+        className="text-[#B99A49] font-black hover:text-white transition-colors duration-300 flex items-center gap-1"
+      >
+        Archealix Developers
+        <svg 
+          className="w-3 h-3" 
+          fill="none" 
+          stroke="currentColor" 
+          viewBox="0 0 24 24"
+        >
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+        </svg>
+      </a>
+    </div>
           <div className="flex gap-8">
             <Link to="/privacy" className="text-zinc-600 text-[10px] uppercase tracking-widest hover:text-white transition-colors">Privacy Policy</Link>
             <Link to="/terms" className="text-zinc-600 text-[10px] uppercase tracking-widest hover:text-white transition-colors">Terms of Service</Link>
