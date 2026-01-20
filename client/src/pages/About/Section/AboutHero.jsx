@@ -31,7 +31,7 @@ const AboutHero = () => {
   return (
     <section 
       ref={container} 
-      className="relative min-h-screen w-full flex items-center justify-center overflow-hidden bg-stone-900"
+      className="relative min-h-screen w-full flex items-center justify-center overflow-hidden bg-stone-900 "
     >
       {/* FULL SECTION IMAGE COMPONENT */}
       <div className="absolute inset-0 z-0">
@@ -48,9 +48,9 @@ const AboutHero = () => {
       {/* CONTENT OVERLAY */}
       <div className="relative z-10 w-full max-w-[1440px] mx-auto px-6 md:px-16 flex flex-col items-center text-center">
         
-        <div className="overflow-hidden mb-4">
+        <div className="overflow-hidden mt-20 mb-3">
           <span className="reveal-text block text-[#D4A373] font-bold uppercase tracking-[0.6em] text-[10px] md:text-xs">
-            Since 1980
+            Since 1970
           </span>
         </div>
 

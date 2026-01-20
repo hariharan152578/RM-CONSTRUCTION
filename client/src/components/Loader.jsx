@@ -8,7 +8,7 @@ export default function IllustratedCraneLoader({ setFinished }) {
   const hookRef = useRef();
   const goodsRef = useRef();
   const goodsInnerRef = useRef(); // For the swinging effect
-
+ 
   useGSAP(() => {
     const tl = gsap.timeline({
       onComplete: () => {
@@ -30,14 +30,14 @@ export default function IllustratedCraneLoader({ setFinished }) {
 
     // 1. Lower the hook precisely to the crate's handle
     tl.to(hookRef.current, { 
-      height: 178, 
+      height: 130, 
       duration: 1.5, 
       ease: "power2.inOut" 
     })
     
     // 2. Lift Phase
     .to(goodsRef.current, { 
-      y: -130, 
+      y: -100, 
       duration: 1.2, 
       ease: "power3.out" 
     }, "lift")
@@ -71,14 +71,14 @@ export default function IllustratedCraneLoader({ setFinished }) {
       ease: "bounce.out" 
     }, "drop")
     .to(hookRef.current, { 
-      height: 178, 
+      height: 150, 
       duration: 1, 
       ease: "bounce.out" 
     }, "drop")
 
     // 5. Retract hook and exit
     .to(hookRef.current, { 
-      height: 20, 
+      height: 10, 
       duration: 0.8, 
       ease: "power2.in" 
     }, "+=0.3");
